@@ -1,6 +1,6 @@
 [![Build Status](https://img.shields.io/travis/fervidus/secure_linux_cis)](https://img.shields.io/travis/fervidus/secure_linux_cis)
 
-# secure_linux_cis
+# RHEL9 / Rocky 9 Compatible fork of fervidus/secure_linux_cis CIS hardening
 
 
 #### Table of Contents
